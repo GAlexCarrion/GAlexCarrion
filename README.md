@@ -2,6 +2,8 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy **Egresado Superior en Desarrollo de Software** enfocado en el desarrollo **Full-Stack**, especializado en la construcción de aplicaciones web y móviles modernas, escalables y de alto rendimiento.
 
+* 🌐 [Mira mi portafolio digital aquí](https://perfil-l7yn.vercel.app/)
+
 ---
 
 ### 💼 Sobre mí
