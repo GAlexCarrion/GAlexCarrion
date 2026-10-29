@@ -30,7 +30,19 @@
 - **[CSPokeBola](#)** – Aplicación C# ASP.NET Core MVC integrada con PokéAPI, DTOs y caching en memoria.
 - **[AventuraStream](#)** – Aplicación móvil para catálogo de películas desarrollada en Flutter con Firebase y Supabase.
 - **[OpenPGP Encryption App](#)** – Aplicación web para cifrado simétrico y asimétrico (AES y PGP) con OpenPGP.js.
+- Enfocate – Página web sobre técnicas de estudio para estudiantes, desarrollada con React, Vite y TypeScript.
+
 
 ---
 
-✉️ **¿Quieres contactarme?** ¡Puedes explorar mis repositorios o conectar conmigo para colaboraciones profesionales!
+## 🌎 Idiomas
+
+* **Español:** C2 – Nativo
+* **Inglés:** A2 – Básico / Técnico
+
+---
+
+## 📄 CV
+
+Puedes descargar mi CV completo en PDF:
+📄 [Descargar CV](https://github.com/GAlexCarrion/GAlexCarrion/blob/main/CV_Alex_Carrion.pdf)
